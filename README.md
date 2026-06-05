@@ -14,6 +14,31 @@ Dépôt d'apprentissage. Objectif : maîtrise réelle de **Git/GitHub**, **JavaS
 | 4      | React                         | ⏳ À venir   |
 | 5      | Projet complet (full-stack)   | ⏳ À venir   |
 
+## Programme détaillé
+
+### ✅ Acquis
+- [x] Créer un dépôt local — `git init`
+- [x] Enregistrer son travail — `git add` → `git commit`
+- [x] Connecter & publier sur GitHub — `git remote add`, `git push`
+- [x] Comprendre la staging area (zone de transit)
+- [x] Travailler sur une branche — `git switch -c`, `git branch`
+- [x] Fusionner une branche — `git merge` (+ notion de *fast-forward*)
+- [x] Supprimer une branche — `git branch -d`
+- [x] Ignorer des fichiers — `.gitignore`
+
+### 🔜 En cours
+- [ ] Pull Requests — proposer, relire et fusionner sur GitHub
+- [ ] Resynchroniser le local — `git fetch`, `git pull`
+
+### ⏳ À venir
+- [ ] Explorer l'historique — `git log`, `git diff`
+- [ ] Annuler des changements — `git restore`, `git restore --staged`, `git revert`
+- [ ] Résoudre un conflit de fusion (*merge conflict*) ⚔️ 
+- [ ] Mettre du travail de côté — `git stash`
+- [ ] Cloner un dépôt existant — `git clone`
+- [ ] Bonnes pratiques : messages de commit clairs et conventionnels
+- [ ] Notions avancées (survol) — `git reset`, `git rebase`, tags & releases
+
 ## 📂 Structure
 
 ```

@@ -1,0 +1,3 @@
+## Résumé Module 0
+
+Dans le Module 0, nous avons appris les commandes de base de Git. L'initialisation de git par "git init", avec "git add" ajouter un fichier dans la zone de transit et "git commit" qui nous permet d'ajout notre message. Nous avons aussi vu la création/list/suppression de branch par "git branch" mais également le plus important si on veut lier notre projet à un serveur distant avec la command "git remote add".

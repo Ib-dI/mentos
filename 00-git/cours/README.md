@@ -17,6 +17,7 @@ a vue ensemble, avec des mots simples, des analogies et des exemples.
 | 4 | [Les branches](04-les-branches.md) | `branch`, `switch`, `merge`, fast-forward |
 | 5 | [Le fichier .gitignore](05-gitignore.md) | ignorer des fichiers, sécurité des secrets |
 | 6 | [Les Pull Requests](06-pull-requests.md) | workflow de collaboration, revue de code |
+| 7 | [Inspecter et annuler](07-inspecter-et-annuler.md) | `diff`, `log --graph`, `restore` |
 
 ---
 *Fiches rédigées par ton mentor au fil du parcours.*

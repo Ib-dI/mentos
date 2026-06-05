@@ -27,12 +27,12 @@ Dépôt d'apprentissage. Objectif : maîtrise réelle de **Git/GitHub**, **JavaS
 - [x] Ignorer des fichiers — `.gitignore`
 
 ### 🔜 En cours
-- [ ] Pull Requests — proposer, relire et fusionner sur GitHub
+- [x] Pull Requests — proposer, relire et fusionner sur GitHub
 - [ ] Resynchroniser le local — `git fetch`, `git pull`
 
 ### ⏳ À venir
 - [ ] Explorer l'historique — `git log`, `git diff`
-- [ ] Annuler des changements — `git restore`, `git restore --staged`, `git revert`
+- [x] Annuler des changements — `git restore`, `git restore --staged`, `git revert`
 - [ ] Résoudre un conflit de fusion (*merge conflict*) ⚔️ 
 - [ ] Mettre du travail de côté — `git stash`
 - [ ] Cloner un dépôt existant — `git clone`

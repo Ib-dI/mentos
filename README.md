@@ -34,8 +34,8 @@ Dépôt d'apprentissage. Objectif : maîtrise réelle de **Git/GitHub**, **JavaS
 - [x] Explorer l'historique — `git log`, `git diff`
 - [x] Annuler des changements — `git restore`, `git restore --staged`, `git revert`
 - [x] Résoudre un conflit de fusion (*merge conflict*) ⚔️ 
-- [ ] Mettre du travail de côté — `git stash`
-- [ ] Cloner un dépôt existant — `git clone`
+- [x] Mettre du travail de côté — `git stash`
+- [x] Cloner un dépôt existant — `git clone`
 - [ ] Bonnes pratiques : messages de commit clairs et conventionnels
 - [ ] Notions avancées (survol) — `git reset`, `git rebase`, tags & releases
 

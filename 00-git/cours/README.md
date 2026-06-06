@@ -19,6 +19,7 @@ a vue ensemble, avec des mots simples, des analogies et des exemples.
 | 6 | [Les Pull Requests](06-pull-requests.md) | workflow de collaboration, revue de code |
 | 7 | [Inspecter et annuler](07-inspecter-et-annuler.md) | `diff`, `log --graph`, `restore` |
 | 8 | [Les conflits de fusion](08-conflits-de-fusion.md) | marqueurs, résolution, `merge --abort` |
+| 9 | [Stash et clone](09-stash-et-clone.md) | `stash -u`, `apply` vs `pop`, `clone` |
 
 ---
 *Fiches rédigées par ton mentor au fil du parcours.*

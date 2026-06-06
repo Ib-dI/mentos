@@ -20,6 +20,8 @@ a vue ensemble, avec des mots simples, des analogies et des exemples.
 | 7 | [Inspecter et annuler](07-inspecter-et-annuler.md) | `diff`, `log --graph`, `restore` |
 | 8 | [Les conflits de fusion](08-conflits-de-fusion.md) | marqueurs, résolution, `merge --abort` |
 | 9 | [Stash et clone](09-stash-et-clone.md) | `stash -u`, `apply` vs `pop`, `clone` |
+| 10 | [Messages de commit](10-messages-de-commit.md) | Conventional Commits, `type(scope):`, `--amend` |
+| 11 | [Notions avancées](11-notions-avancees.md) | `reset`, `reflog`, `rebase`, tags & releases |
 
 ---
 *Fiches rédigées par ton mentor au fil du parcours.*
